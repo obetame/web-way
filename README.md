@@ -5,7 +5,7 @@ Front end Engineer Boys Web Way.
 
 1. [前端开发必看](https://github.com/zhouyuexie/web-way/blob/master/web-blog/前端开发必看.md)
 2. [浏览器跨域解决方案](https://github.com/zhouyuexie/web-way/blob/master/web-blog/浏览器跨域解决方案.md)
-3. [HTTP响应代码](https://github.com/zhouyuexie/web-way/blob/master/web-blog/HTTP响应代码.md)
+3. [HTTP响应码](https://github.com/zhouyuexie/web-way/blob/master/web-blog/HTTP响应码.md)
 
 ## git普通使用方法
 
